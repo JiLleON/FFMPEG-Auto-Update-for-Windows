@@ -9,7 +9,7 @@ If they are different - the script downloads the archive with the new build into
 
 Pre-installed in the system:
 ```
-- 7-zip added to PATH
+- 7-zip amd ffmpeg added to PATH
 - You may need elevated rights for PS if you do not initially have a folder in `C:\ffmpeg` (I have) and you're too lazy to create it yourself once
 ```
 
